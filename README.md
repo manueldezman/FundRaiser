@@ -1,0 +1,1 @@
+This repository contains a smart contract that allows poeple to fund campaigns or project, wriiten in solidity.
